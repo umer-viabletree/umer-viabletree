@@ -1,7 +1,7 @@
 ## # Hi 👋, I'm Umer Hayyat
 Welcome to my GitHub profile! 🚀  
 
-A passionate **Software Engineer - level 3** and **MS Cyber Security student**.  
+A passionate **Software Engineer - level 3**.  
 
 --- 
 🔭 I’m currently working on  
